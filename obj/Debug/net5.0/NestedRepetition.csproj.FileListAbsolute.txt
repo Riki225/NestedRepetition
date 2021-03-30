@@ -1,0 +1,16 @@
+C:\Users\suzuk\projects\NestedRepetition\bin\Debug\net5.0\NestedRepetition.exe
+C:\Users\suzuk\projects\NestedRepetition\bin\Debug\net5.0\NestedRepetition.deps.json
+C:\Users\suzuk\projects\NestedRepetition\bin\Debug\net5.0\NestedRepetition.runtimeconfig.json
+C:\Users\suzuk\projects\NestedRepetition\bin\Debug\net5.0\NestedRepetition.runtimeconfig.dev.json
+C:\Users\suzuk\projects\NestedRepetition\bin\Debug\net5.0\NestedRepetition.dll
+C:\Users\suzuk\projects\NestedRepetition\bin\Debug\net5.0\ref\NestedRepetition.dll
+C:\Users\suzuk\projects\NestedRepetition\bin\Debug\net5.0\NestedRepetition.pdb
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.csprojAssemblyReference.cache
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.AssemblyInfoInputs.cache
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.AssemblyInfo.cs
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.dll
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\ref\NestedRepetition.dll
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.pdb
+C:\Users\suzuk\projects\NestedRepetition\obj\Debug\net5.0\NestedRepetition.genruntimeconfig.cache
