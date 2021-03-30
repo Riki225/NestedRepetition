@@ -6,27 +6,27 @@ namespace NestedRepetition
     {
         static void Main(string[] args)
         {
-            string getname;
             int counter;
-            int counter2;
-
             counter = 0;
 
-            getname = Console.ReadLine();
+            Console.WriteLine("Please Enter A Name:");
+            string getName;
+            getName = Console.ReadLine();
 
             while (counter < 10) {
+                int counter2;
                 counter2 = 0;
 
                 while (counter2 < 5) {
-                    Console.Write(getname);
-                    counter2 = counter2 + 1;
+                    Console.Write(getName);
+                    counter2 ++;
                 }
 
                 Console.WriteLine();
-                counter = counter + 1;
+                counter ++;
             }
 
-            Console.WriteLine("Goodbye" + " " + getname);
+            Console.WriteLine("Goodbye " + getName);
         }
     }
 }
