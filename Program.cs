@@ -17,7 +17,7 @@ namespace NestedRepetition
                 int counter2;
                 counter2 = 0;
 
-                while (counter2 < 5) {
+                while (counter2 < 10) {
                     Console.Write(getName);
                     counter2 ++;
                 }

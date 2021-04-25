@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suzuk\\projects\\NestedRepetition\\NestedRepetition.csproj": {}
+    "C:\\Users\\suzuk\\Projects\\NestedRepetition\\NestedRepetition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suzuk\\projects\\NestedRepetition\\NestedRepetition.csproj": {
+    "C:\\Users\\suzuk\\Projects\\NestedRepetition\\NestedRepetition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suzuk\\projects\\NestedRepetition\\NestedRepetition.csproj",
+        "projectUniqueName": "C:\\Users\\suzuk\\Projects\\NestedRepetition\\NestedRepetition.csproj",
         "projectName": "NestedRepetition",
-        "projectPath": "C:\\Users\\suzuk\\projects\\NestedRepetition\\NestedRepetition.csproj",
+        "projectPath": "C:\\Users\\suzuk\\Projects\\NestedRepetition\\NestedRepetition.csproj",
         "packagesPath": "C:\\Users\\suzuk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suzuk\\projects\\NestedRepetition\\obj\\",
+        "outputPath": "C:\\Users\\suzuk\\Projects\\NestedRepetition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suzuk\\AppData\\Roaming\\NuGet\\NuGet.Config"
